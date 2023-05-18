@@ -1,0 +1,46 @@
+
+ .para {
+    font-size: 1.20rem;
+    margin-top: 180px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+  }
+
+  .abt {
+    margin-top: 130px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .big-heading {
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    background-image: linear-gradient(to left, #423e00, #333333);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align:center;
+    margin-top: 125px;
+  }
+
+  /* Containers 
+.container-fluid { padding: 7% 15%; }*/
+
+/* Navigation Bar */
+.navbar { padding: 0 0 4.5rem 0; }
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 10rem;
+  font-weight: bold;
+}
+
+.nav-item { padding: 0 1.13rem; }
+
+.nav-link { font-size: 1.2rem; }
+
+.predict-btn {
+ margin-top: 75px;
+}
